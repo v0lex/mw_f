@@ -79,5 +79,9 @@ interface.py loads: graph checkpoint, race_id_to_discipline_scores_N.pt,
                     interface_* models
 ```
 ## Author and license
- 
-[Oleksandr Voznyi] · [MIT]
+
+Oleksandr Voznyi
+
+Copyright (c) 2026 Oleksandr Voznyi. All rights reserved.
+This code is published for transparency and review of the thesis work.
+No permission is granted to copy, modify or redistribute it without the author's consent.
